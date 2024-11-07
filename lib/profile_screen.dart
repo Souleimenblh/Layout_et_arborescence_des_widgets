@@ -45,8 +45,8 @@ Widget build(BuildContext context) {
     decoration: BoxDecoration(
       shape: BoxShape.circle,
       border: Border.all(
-        color: Colors.white, // Optional: border color
-        width: 4.0,          // Optional: border width
+        color: Colors.white, 
+        width: 4.0,          
       ),
       boxShadow: [
         BoxShadow(
